@@ -1,5 +1,13 @@
+@font-face {
+font-family: 'Rubik';
+src: url('fonts/Rubik-Regular.ttf') format('truetype'),
+url('fonts/Rubik-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
 
 h1 {
+   font-family: 'Rubik';
    color: blue;
    font-family: 'Rubik';
    font-size: 185px;
