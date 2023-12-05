@@ -2,7 +2,7 @@
 /* Fonts are embedded through external CSS and for testing purpose on Codepen only. Please consult each font’s licensing info for other usages. */ 
 
 body {
-  font-family: "Rubik";
+  font-family: 'Rubik';
 }
 
 /* text: TARARAM */
@@ -16,9 +16,11 @@ body {
 }
 
 @font-face {
-    font-family: "Rubik;
-    src: url("Rubik-Regular.woff") format("woff"),
-         url("Rubik-Regular.ttf") format("ttf");
+font-family: 'Rubik';
+src: url('../Rubik-Regular.ttf') format('truetype'),
+url('../Rubik-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
 }
 
 </style>
