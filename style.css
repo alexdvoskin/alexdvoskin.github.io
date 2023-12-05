@@ -46,7 +46,7 @@
 
 @font-face {
     font-family: "Roboto Flex";
-    src: url("fonts/RobotoFlex.woff") format("woff");
+    src: url("fonts/RobotoFlex.woff") format("woff"),
          url("fonts/RobotoFlex.ttf") format("ttf");
 }
 
