@@ -7,7 +7,7 @@ body {
 } 
 /* text: TARARAM */
 #text1 {
-  font-family: 'Dunbar';
+  font-family: 'Roboto Flex';
   font-size: 85px; 
   position: absolute; 
   left: 73px; 
@@ -19,7 +19,7 @@ body {
 }
 /* text: is */
 #text2 {
-  font-family: 'Louvette Beta';
+  font-family: 'Roboto Flex';
   font-size: 95px; 
   position: absolute; 
   left: 78px; 
@@ -31,7 +31,7 @@ body {
 }
 /* text: very */
 #text3 {
-  font-family: 'Fit';
+  font-family: 'Roboto Flex';
   font-size: 103px; 
   position: absolute; 
   left: 76px; 
