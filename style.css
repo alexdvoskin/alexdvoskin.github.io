@@ -40,13 +40,11 @@ body {
     'wdth' 186.07; 
 }
 /* text: Awesome */
+
 #text4 {
-  font-family: 'Roslindale Variable Italic Beta';
-  font-size: 100px; 
-  position: absolute; 
-  left: 78px; 
-  top: 537px; 
-  font-variation-settings:
-    'ital' 1,
-    'slnt' -8.00; 
+    font-family: 'Roboto Flex';
+    src: url('RobotoFlex-VF.woff2') format('woff2-variations');
+    src: url('RobotoFlex-VF.woff2') format('woff2') tech('variations');
+    font-weight: 100 1000;
+    font-stretch: 25% 151%;
 }
