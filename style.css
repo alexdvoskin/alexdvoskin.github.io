@@ -3,8 +3,8 @@
 
 @font-face {
 font-family: 'Rubik';
-src: url('../Rubik-Regular.ttf') format('truetype'),
-url('../Rubik-Regular.woff') format('woff');
+src: url('../fonts/Rubik-Regular.ttf') format('truetype'),
+url('../fonts/Rubik-Regular.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
