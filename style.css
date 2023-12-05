@@ -20,8 +20,8 @@ body {
 
 @font-face {
     font-family: "Roboto Flex";
-    src: url("fonts/RobotoFlex.woff") format("woff"),
-         url("fonts/RobotoFlex.ttf") format("ttf");
+    src: url("../alexdvoskin/fonts/RobotoFlex.woff") format("woff"),
+         url("../alexdvoskin/fonts/RobotoFlex.ttf") format("ttf");
 }
 
 </style>
