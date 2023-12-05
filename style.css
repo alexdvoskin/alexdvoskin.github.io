@@ -2,26 +2,23 @@
 /* Fonts are embedded through external CSS and for testing purpose on Codepen only. Please consult each font’s licensing info for other usages. */ 
 
 body {
-  font-family: "Roboto Flex";
+  font-family: "Rubik";
 }
 
 /* text: TARARAM */
 #text1 {
-  font-family: 'Roboto Flex';
+  font-family: 'Rubik;
   font-size: 85px; 
   position: absolute; 
   left: 73px; 
   top: 48px; 
-  font-variation-settings:
-    'wght' 712.00,
-    'XHGT' 432.83,
-    'opsz' 36; 
+  weight: 400;
 }
 
 @font-face {
-    font-family: "Roboto Flex";
-    src: url("../alexdvoskin/fonts/RobotoFlex.woff") format("woff"),
-         url("../alexdvoskin/fonts/RobotoFlex.ttf") format("ttf");
+    font-family: "Rubik;
+    src: url("Rubik-Regular.woff") format("woff"),
+         url("Rubik-Regular.ttf") format("ttf");
 }
 
 </style>
