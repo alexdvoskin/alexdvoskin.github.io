@@ -1,22 +1,8 @@
-<style>
-/* Fonts are embedded through external CSS and for testing purpose on Codepen only. Please consult each font’s licensing info for other usages. */ 
-
-@font-face {
-font-family: 'Rubik';
-src: url('../fonts/Rubik-Regular.ttf') format('truetype'),
-url('../fonts/Rubik-Regular.woff') format('woff');
-font-weight: normal;
-font-style: normal;
-}
-
 /* text: TARARAM */
 div {
-  font-family: 'Rubik';
   font-size: 85px; 
   position: absolute; 
   left: 73px; 
   top: 48px; 
   weight: 400;
 }
-
-</style>
