@@ -1,0 +1,52 @@
+/* Fonts are embedded through external CSS and for testing purpose on Codepen only. Please consult each font’s licensing info for other usages. */ 
+
+body { 
+  -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale; 
+  font-smoothing: antialiased; 
+} 
+/* text: TARARAM */
+#text1 {
+  font-family: 'Dunbar';
+  font-size: 85px; 
+  position: absolute; 
+  left: 73px; 
+  top: 48px; 
+  font-variation-settings:
+    'wght' 712.00,
+    'XHGT' 432.83,
+    'opsz' 36; 
+}
+/* text: is */
+#text2 {
+  font-family: 'Louvette Beta';
+  font-size: 95px; 
+  position: absolute; 
+  left: 78px; 
+  top: 193px; 
+  font-variation-settings:
+    'wght' 300.00,
+    'yopq' 100.00,
+    'ytde' 100; 
+}
+/* text: very */
+#text3 {
+  font-family: 'Fit';
+  font-size: 103px; 
+  position: absolute; 
+  left: 76px; 
+  top: 361px; 
+  font-variation-settings:
+    'wdth' 186.07; 
+}
+/* text: Awesome */
+#text4 {
+  font-family: 'Roslindale Variable Italic Beta';
+  font-size: 100px; 
+  position: absolute; 
+  left: 78px; 
+  top: 537px; 
+  font-variation-settings:
+    'ital' 1,
+    'slnt' -8.00; 
+}
