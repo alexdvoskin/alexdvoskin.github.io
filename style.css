@@ -1,6 +1,9 @@
 <style>
 /* Fonts are embedded through external CSS and for testing purpose on Codepen only. Please consult each font’s licensing info for other usages. */ 
 
+body {
+  font-family: "Roboto Flex";
+}
 
 /* text: TARARAM */
 #text1 {
@@ -14,44 +17,11 @@
     'XHGT' 432.83,
     'opsz' 36; 
 }
-/* text: is */
-#text2 {
-  font-family: 'Roboto Flex';
-  font-size: 95px; 
-  position: absolute; 
-  left: 78px; 
-  top: 193px; 
-  font-variation-settings:
-    'wght' 300.00,
-    'yopq' 100.00,
-    'ytde' 100; 
-}
-/* text: very */
-#text3 {
-  font-family: "Roboto Flex";
-  font-size: 103px; 
-  position: absolute; 
-  left: 76px; 
-  top: 361px; 
-  font-variation-settings:
-    'wdth' 186.07; 
-}
-/* text: Awesome */
-
-#text4 {
-    font-family: "Roboto Flex";
-    font-weight: 100 1000;
-    font-stretch: 25% 151%;
-}
 
 @font-face {
     font-family: "Roboto Flex";
     src: url("fonts/RobotoFlex.woff") format("woff"),
          url("fonts/RobotoFlex.ttf") format("ttf");
-}
-
-body {
-  font-family: "Roboto Flex";
 }
 
 </style>
