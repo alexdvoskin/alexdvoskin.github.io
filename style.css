@@ -31,7 +31,7 @@ body {
 }
 /* text: very */
 #text3 {
-  font-family: 'Roboto Flex';
+  font-family: "Roboto Flex";
   font-size: 103px; 
   position: absolute; 
   left: 76px; 
@@ -42,13 +42,17 @@ body {
 /* text: Awesome */
 
 #text4 {
-    font-family: 'Roboto Flex';
+    font-family: "Roboto Flex";
     font-weight: 100 1000;
     font-stretch: 25% 151%;
 }
 
 @font-face {
-    font-family: 'Roboto Flex';
-    src: url('fonts/RobotoFlex.woff') format('woff');
-         url('fonts/RobotoFlex.ttf') format('ttf');
+    font-family: "Roboto Flex";
+    src: url("fonts/RobotoFlex.woff") format("woff");
+         url("fonts/RobotoFlex.ttf") format("ttf");
+}
+
+body {
+  font-family: "Roboto Flex";
 }
