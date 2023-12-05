@@ -10,7 +10,7 @@ font-style: normal;
 }
 
 /* text: TARARAM */
-#text1 {
+div {
   font-family: 'Rubik';
   font-size: 85px; 
   position: absolute; 
@@ -18,6 +18,5 @@ font-style: normal;
   top: 48px; 
   weight: 400;
 }
-
 
 </style>
