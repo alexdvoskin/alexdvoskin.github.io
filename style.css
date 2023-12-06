@@ -1,15 +1,22 @@
+// Variable font
 @font-face {
 font-family: 'RobotoFlex';
 src: url('fonts/RobotoFlex.ttf') format('truetype'),
-url('fonts/RobotoFlex.woff') format('woff');
+url('fonts/RobotoFlex.woff') format('woff-variations');
 font-weight: normal;
 font-style: normal;
 }
+
+
 
 h1 {
    font-family: 'RobotoFlex';
    color: blue;
    font-size: 185px;
+   font-variation-settings: "wght" 300, "ital" 0;
+   transition: font-variation-settings 0.3s ease;
 }
 
-
+h1:hover {
+  font-variation-settings: "wght" 700, "ital" 12;
+}
