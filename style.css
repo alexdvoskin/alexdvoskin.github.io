@@ -2,8 +2,6 @@
 font-family: 'RobotoFlex';
 src: url('fonts/RobotoFlex.ttf') format('truetype'),
 url('fonts/RobotoFlex.woff') format('woff');
-font-weight: normal;
-font-style: normal;
 }
 
 h1 {
