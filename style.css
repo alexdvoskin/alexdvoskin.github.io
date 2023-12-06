@@ -1,8 +1,8 @@
 // Variable font
 @font-face {
 font-family: 'RobotoFlex';
-src: url('fonts/RobotoFlex.ttf') format('truetype'),
-   url('fonts/RobotoFlex.woff') format('woff-variations');
+src: url('../fonts/RobotoFlex.ttf') format('truetype'),
+   url('../fonts/RobotoFlex.woff') format('woff-variations');
 }
 
 
