@@ -9,5 +9,5 @@ h1 {
    font-family: 'RobotoFlex';
    color: green;
    font-size: 185px;
-   font-variation-settings: 'wght' 100; 'wdth' 100; 'YTUC' 600;
+   font-variation-settings: 'wght' 100, 'wdth' 100, 'YTUC' 600;
 }
