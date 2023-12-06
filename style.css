@@ -7,7 +7,7 @@ url('fonts/RobotoFlex.woff') format('woff2-variations');
 
 h1 {
    font-family: 'RobotoFlex';
-   color: green;
+   color: black;
    font-size: 185px;
-   font-variation-settings: 'wght' 100, 'wdth' 100, 'YTUC' 600;
+   font-variation-settings: 'wght' 800, 'wdth' 100, 'slnt' -9, 'GRAD' 102, 'XTRA' 468, 'YTUC' 800;
 }
