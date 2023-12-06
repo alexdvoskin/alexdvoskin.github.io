@@ -10,8 +10,6 @@ src: url('fonts/RobotoFlex.ttf') format('truetype'),
 h1 {
    font-family: 'RobotoFlex';
    color: blue;
-   font-size: 185px;
-   font-variation-settings: "wght" 300, "ital" 0;
-   transition: font-variation-settings 0.3s ease;
+   font-size: 300px;
 }
 
