@@ -10,9 +10,10 @@ h1 {
    color: black;
    font-size: 185px;
    font-variation-settings: 'wght' 800, 'wdth' 100, 'slnt' -9, 'GRAD' 102, 'XTRA' 468, 'YTUC' 700;
-   transition: font-variation-settings 0.3s ease;
+   transition: font-variation-settings 0.5s ease;
 }
 
 h1:hover {
-  font-variation-settings: "wght" 1000, "YTUC" 550;
+  font-variation-settings: 'wght' 1000, 'wdth' 100, 'slnt' -9, 'GRAD' 102, 'XTRA' 468, 'YTUC' 550;
+  color: #BE0031;
 }
