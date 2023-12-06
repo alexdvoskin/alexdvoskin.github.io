@@ -1,13 +1,13 @@
 @font-face {
-font-family: 'Rubik';
-src: url('fonts/Rubik-Regular.ttf') format('truetype'),
-url('fonts/Rubik-Regular.woff') format('woff');
+font-family: 'RobotoFlex';
+src: url('fonts/RobotoFlex.ttf') format('truetype'),
+url('fonts/RobotoFlex.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
 
 h1 {
-   font-family: 'Rubik';
-   color: red;
+   font-family: 'RobotoFlex';
+   color: pink;
    font-size: 185px;
 }
