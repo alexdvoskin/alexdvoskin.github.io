@@ -2,7 +2,7 @@
     font-family: 'RobotoFlex';
     src: url('fonts/RobotoFlex.ttf') format('truetype'),
     url('fonts/RobotoFlex.woff') format('woff-variations');
-    url('fonts/RobotoFlex.woff') format('woff2-variations');
+    url('fonts/RobotoFlex2.woff') format('woff2-variations');
 }
 
 div {font-family: 'RobotoFlex';
