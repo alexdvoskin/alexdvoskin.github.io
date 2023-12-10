@@ -1,19 +1,21 @@
 @font-face {
-font-family: 'RobotoFlex';
-src: url('fonts/RobotoFlex.ttf') format('truetype'),
-url('fonts/RobotoFlex.woff') format('woff-variations');
-url('fonts/RobotoFlex.woff') format('woff2-variations');
+    font-family: 'RobotoFlex';
+    src: url('fonts/RobotoFlex.ttf') format('truetype'),
+    url('fonts/RobotoFlex.woff') format('woff-variations');
+    url('fonts/RobotoFlex.woff') format('woff2-variations');
 }
 
-h1 {
-   font-family: 'RobotoFlex';
-   color: black;
-   font-size: 185px;
-   font-variation-settings: 'wght' 800, 'wdth' 100, 'slnt' -9, 'GRAD' 102, 'XTRA' 468, 'YTUC' 700;
-   transition: font-variation-settings 0.5s ease;
+div {font-family: 'RobotoFlex';
+    color: black;
+    font-variation-settings: 'wght' 800, 'wdth' 100, 'slnt' -9, 'GRAD' 102, 'XTRA' 468, 'YTUC' 700;
+    transition: font-variation-settings 0.5s ease;
+    font-size: 280px;
+    line-height: 224px;
+    word-wrap: break-word;
 }
-
-h1:hover {
-  font-variation-settings: 'wght' 1000, 'wdth' 100, 'slnt' -9, 'GRAD' 102, 'XTRA' 468, 'YTUC' 550;
-  color: #BE0031;
+    
+    
+div:hover {
+      font-variation-settings: 'wght' 1000, 'wdth' 100, 'slnt' -9, 'GRAD' 102, 'XTRA' 468, 'YTUC' 550;
+      color: #BE0031;
 }
