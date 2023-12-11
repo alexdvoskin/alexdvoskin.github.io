@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'RobotoFlex';
     src: url('fonts/RobotoFlex.ttf') format('truetype'),
-    url('fonts/RobotoFlex.woff') format('woff-variations');
-    url('fonts/RobotoFlex2.woff') format('woff2-variations');
+    url('fonts/RobotoFlex.woff') format('woff-variations'),
+    url('fonts/RobotoFlex.woff2') format('woff2-variations');
 }
 
 div {font-family: 'RobotoFlex';
@@ -12,14 +12,14 @@ div {font-family: 'RobotoFlex';
     font-size: 15vw;
     line-height: 12vw;
     word-wrap: break-word;
-    padding-left: 50px; 
-    padding-right: 50px; 
-    padding-top: 20px; 
-    padding-bottom: 20px; 
     background: white; 
     justify-content: center; 
     align-items: center; 
     display: flex;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
     
     
